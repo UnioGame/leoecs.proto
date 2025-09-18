@@ -1,0 +1,19 @@
+{
+    "name": "ru.leopotam.ecsproto",
+    "author": "Leopotam",
+    "displayName": "LeoECS Proto Core",
+    "description": "LeoECS Proto - легковесный ECS-фреймворк, преемник LeoECS Lite. Производительность, нулевые или минимальные аллокации, минимизация использования памяти, отсутствие зависимостей от любого игрового движка - это основные цели данного фреймворка.",
+    "unity": "2021.3",
+    "version": "2025.9.4",
+    "keywords": [
+        "leoecs",
+        "proto",
+        "ecs",
+        "performance"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/ecsproto.git"
+    }
+}
